@@ -3,7 +3,7 @@ Example scripts to train and find optimum of a feed forward ANN with melon and m
 
 To run, create a new anaconda environment with the provided .yml file.
 ````
-conda env create -f environment.yml
+conda env create -f maingopy_environment.yml
 ````
 Then run the jupyter notebook scripts:
 
