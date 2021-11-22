@@ -1,4 +1,4 @@
-# Using melon and maingo to find optimum of feed forward neural net
+# Using maingopy to find optimum of feed forward neural net
 Example scripts to train and find optimum of a feed forward ANN with melon and maingo. 
 Sources of code snippets from: https://git.rwth-aachen.de/avt-svt/public/maingo/ and https://git.rwth-aachen.de/avt-svt/public/melon .
 
